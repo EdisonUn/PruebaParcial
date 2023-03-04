@@ -1,5 +1,7 @@
 # Prueba Parcial
  “Country Info App”
+## COLAB PARA OBTENER MODELO
+https://github.com/EdisonUn/PruebaParcial/blob/master/Copia_de_Model_Maker_Image_Classification_Tutorial.ipynb
 
 ## 1. Paises Detectados
 
